@@ -6,7 +6,7 @@ Multipass login is for store owners who have a separate website and a Shopify st
 
 ## Installation
 
-```npm install @shopify-apac-ts/multipass```
+```npm install @nobu-shopify/multipass```
 
 ## How to use this module
 
