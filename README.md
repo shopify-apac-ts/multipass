@@ -1,6 +1,6 @@
 # multipass
 
-A Multipass module for Hydrogen and other storefronts where [Multipassify](https://github.com/beaucoo/multipassify) is not compatible.  
+A Multipass module for Hydrogen and other storefronts where [Multipassify](https://github.com/beaucoo/multipassify) is not compatible. It relies on [crypto-js module](https://github.com/brix/crypto-js). 
 
 Multipass login is for store owners who have a separate website and a Shopify store. It redirects users from the website to the Shopify store and seamlessly logs them in with the same email address they used to sign up for the original website. See [Shopify Multipass page](https://shopify.dev/docs/api/multipass) for more about Multipass.  
 
