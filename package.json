@@ -1,5 +1,5 @@
 {
-  "name": "@shopify-apac-ts/multipass",
+  "name": "@nobu-shopify/multipass",
   "version": "1.0.0",
   "description": "A Multipass module for Hydrogen and other storefronts where Multipassify is not compatible. It relies on crypto-js.",
   "main": "multipass.js",
