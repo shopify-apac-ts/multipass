@@ -1,0 +1,26 @@
+{
+  "name": "@shopify-apac-ts/multipass",
+  "version": "1.0.0",
+  "description": "A Multipass module for Hydrogen and other storefronts where Multipassify is not compatible. It relies on crypto-js.",
+  "main": "multipass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopify-apac-ts/multipass.git"
+  },
+  "keywords": [
+    "multipass",
+    "hydrogen"
+  ],
+  "author": "Nobu Hayashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shopify-apac-ts/multipass/issues"
+  },
+  "homepage": "https://github.com/shopify-apac-ts/multipass#readme"
+}
