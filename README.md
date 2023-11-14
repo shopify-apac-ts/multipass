@@ -12,7 +12,7 @@ Multipass login is for store owners who have a separate website and a Shopify st
 
 ```
   // Import
-  import { Multipass } from '@shopify-apac-ts/multipass';
+  import { Multipass } from '@nobu-shopify/multipass';
 
   // Create an Multipass object with your Shopify store's Multipass secret
   const multipass = new Multipass(context.env.MULTIPASS_SECRET);
